@@ -1,12 +1,12 @@
 algoritmo "Area_da_circunferencia"
-// Autor : Fernando Oliveira
+// Autor : Ruben
 // Data : 14/09/2017
-// Cálculo da área da circunferência
+// CÃ¡lculo da Ã¡rea da circunferÃªncia
 var
   raio,area : real
 inicio
-      escreva("Qual o raio da circunferência? ")
+      escreva("Qual o raio da circunferÃªncia? ")
       leia(raio)
       area <- 3.14 * raio * raio
-      escreva("A área é",area)
+      escreva("A Ã¡rea Ã©",area)
 fimalgoritmo
